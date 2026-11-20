@@ -1,0 +1,8 @@
+numpy==1.26.4
+pandas==3.0.6
+scikit-learn==1.9.1
+opencv-contrib-python==4.11.0.86
+mediapipe==0.10.21
+pyttsx3==2.99
+Pillow==13.0.0
+matplotlib==3.11.2
